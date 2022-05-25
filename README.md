@@ -1,6 +1,6 @@
 ### Hi there 👋, Welcome to RickWang's profile
 #### A coding lover Boy
-![A coding lover Boy](./images/naemazambanner.jpg)
+![A coding lover Boy](./banner.jpg)
 
 My expertise in PLC Programming and Industrial Networks and Communications will be very helpful in providing excellent service to the company.
 
